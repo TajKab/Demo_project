@@ -38,7 +38,7 @@ segments = []
 pen = turtle.Turtle()
 pen.speed(0)
 pen.shape("square")
-pen.color("white")
+pen.color("black")
 pen.penup()
 pen.hideturtle()
 pen.goto(0, 260)
